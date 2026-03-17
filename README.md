@@ -1,7 +1,7 @@
 # [:] Example Gradle Project
 
 An example gradle project to demonstrate [srcclr](https://www.srcclr.com)f scans.hd
-f
+fd
 ## Try me!
 
 ```d
